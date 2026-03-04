@@ -43,4 +43,10 @@ corso = "TecnicoInformatico"
 saluto = "Ciao, mi chiamo " + nomeUser + " e il mio email è " + emailUser + " e frequento il corso " + corso
 print(saluto)
 
-print("ti prego fatemi andare a casa, ho fame, ho sonno, mi sto rompendo le palle, voglio vedere la mia famiglia, voglio vedere i miei amici, voglio vedere il mio cane, voglio vedere il mio gatto, voglio vedere il mio pesce rosso, voglio vedere il mio criceto, voglio vedere il mio coniglio, voglio vedere il mio pappagallo, voglio vedere il mio serpente, voglio vedere il mio camaleonte, voglio vedere il mio ragno, voglio vedere il mio scorpione, voglio vedere il mio tarantola, voglio vedere il mio millepiedi, voglio vedere il mio centopiedi, voglio vedere il mio millepiedi gigante, voglio vedere il mio centopiedi gigante, voglio vedere il mio episodio di Pokémon Accademy per dio")
+print("ti prego fatemi andare a casa, ho fame, ho sonno, mi sto rompendo le palle, voglio vedere il mio episodio di Pokémon Accademy per dio")
+
+mioNome = "Luca"
+mioCognome = "Benedetto"
+miaEta = 18
+mioCorso = "TecnicoInformatico"
+print(f"Ciao, mi chiamo {mioNome} {mioCognome} e ho {miaEta} anni")
