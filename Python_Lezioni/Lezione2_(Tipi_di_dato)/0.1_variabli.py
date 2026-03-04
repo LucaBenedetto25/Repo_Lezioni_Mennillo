@@ -49,4 +49,4 @@ mioNome = "Luca"
 mioCognome = "Benedetto"
 miaEta = 18
 mioCorso = "TecnicoInformatico"
-print(f"Ciao, mi chiamo {mioNome} {mioCognome} e ho {miaEta} anni")
+print(f"Ciao, mi chiamo {mioNome} {mioCognome} e ho {miaEta} anni, frequento il corso {mioCorso}.")
